@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "358484304552",
+    "project_id": "taala-netkalem",
+    "storage_bucket": "taala-netkalem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358484304552:android:75bc853be1b4487745589d",
+        "android_client_info": {
+          "package_name": "com.example.taala_netkalm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358484304552-aj3cevhvp82k6mh6c8icndte22dshu6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taala_netkalm",
+            "certificate_hash": "3abf0cd65c6482fcc19f445a007f65bdcfb4ba12"
+          }
+        },
+        {
+          "client_id": "358484304552-d812bg7feq7ud3qg2bk789bkjdjoebg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFzEH7pmJ5-beGLNEvwEVAgxT_vbS0JcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358484304552-d812bg7feq7ud3qg2bk789bkjdjoebg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
